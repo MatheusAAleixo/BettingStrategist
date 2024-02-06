@@ -23,10 +23,8 @@ Para usar os scripts, você precisará ter as seguintes bibliotecas Python insta
 
 Você pode instalá-las usando o gerenciador de pacotes pip:
 
-    ```
     pip install pandas
     pip install decimal
-    ```
 
 ## Como Usar
 
